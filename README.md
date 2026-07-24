@@ -1,2 +1,2 @@
-# codyssey_2
-AI 활용 학습 Repository
+# codyssey_a1-1
+Python & Git 기초: Git과 함께하는 Python 첫 발자국
