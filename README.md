@@ -126,17 +126,26 @@ prompts = [
 ## 프로젝트 구조
 
 ```text
-codyssey_A1-1/
+PROMPT-MANAGER/
+├── screenshots/
+│   ├── environment-setup.png
+│   ├── main-menu.png
+│   ├── add-prompt.png
+│   ├── prompt-list.png
+│   ├── category-filter.png
+│   ├── prompt-search.png
+│   ├── prompt-detail.png
+│   ├── favorite-add.png
+│   └── favorite-remove.png
+├── .gitignore
 ├── main.py
-├── README.md
-└── .gitignore
-```
+└── README.md
 
 ## Git 브랜치 작업
 
 프롬프트 목록 기능과 카테고리별 조회 기능을 별도의 브랜치에서 구현한 후 `main` 브랜치에 병합했습니다.
 
-사용한 브랜치 예시:
+사용한 브랜치 :
 
 ```text
 feature/prompt-list
