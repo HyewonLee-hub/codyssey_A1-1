@@ -208,6 +208,12 @@ Python과 Git 버전, VSCode 개발 환경을 확인한 화면입니다.
 
 ![즐겨찾기 해제](./screenshots/favorite-remove.png)
 
+### Git 브랜치 및 커밋 기록
+
+기능 단위 커밋과 브랜치 병합 기록을 확인할 수 있습니다.
+
+![Git 로그 그래프](./screenshots/git-log.png)
+
 
 
 
