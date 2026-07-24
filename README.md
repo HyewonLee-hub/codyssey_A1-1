@@ -149,7 +149,7 @@ feature/category-filter
 
 Python과 Git 버전, VSCode 개발 환경을 확인한 화면입니다.
 
-![개발 환경](./screenshots/environment.png)
+![개발 환경](./screenshots/environment-setup.png)
 
 ### 메인 메뉴
 
